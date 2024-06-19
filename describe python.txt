@@ -1,0 +1,31 @@
+1) What is Python Programming Language and explain the features of Python Programming Language.
+
+answer -- 
+       > Python is an object-oriented, high-level, interpreted programming language 
+          known for its simplicity and its readability.
+
+       > python supports multiple programming paradigms, including procedural, 
+         object-oriented, and functional programming.
+
+       > It's widely used for web development, data analysis, artificial intelligence, 
+         scientific computing and more.
+
+
+FEATURES OF PYTHON PROGRAMMING LANGUAGE ARE:
+
+> readable and maintainable code ~ python is clean and easy-to-read syntax
+  that helps developers to write understandable and maintainable code.
+
+> Interpreted Language ~ python is an interpreted language, meaning the code 
+  is executed line-by-line, which makes debugging easier. 
+
+> Dynamically Typed ~ variables in python do not explicit declaration to reserve 
+  memory space. the declaration happens automatically when you assign a value to a variable.
+
+> High-Level Language ~ python abstracts many complex details of the computer from the 
+  programmer, enabling the focus to be on programming rather than managing memory or the other low-level language.
+
+> Portability ~ python code can run on various operating systems without modifications.
+
+> Supports for multiple programming paradigms ~ python supports different programming 
+  approaches, such as procedural programming or functional programming.  
